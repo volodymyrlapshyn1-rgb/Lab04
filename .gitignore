@@ -1,0 +1,11 @@
+cat > .gitignore <<'EOF'
+out/
+bin/
+target/
+build/
+.vscode/
+*.class
+*.log
+.DS_Store
+Thumbs.db
+EOF
